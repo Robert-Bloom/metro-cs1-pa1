@@ -48,6 +48,12 @@ Note that you can submit right after the first step and continue developing in c
 
 Grading is based on the percentage of tests passed.
 
+#### Note on bonus parts
+
+  * Bonus parts are significantly harder than the rest of the assignment
+  * Bonus parts are _not_ required for a full grade
+  * Submission of functional bonus parts will be counted as _extra_ and/or _makeup_ credit toward the final course grade
+
 ### Due date
 
 Sun, Oct 29, 2017, by 23:59 Mountain Standard Time.
@@ -67,18 +73,18 @@ Note that PA1 is an _individual_ assignment.
 #### `Calculator` class
 
 Contrary to the prototypical assignment, this version will have to support:
-  * both integers and decimals (doubles), by overloading
-  * positive, negative, and zero values
-  * modulo ONLY for integers
-  * arbitrary white space between operands and operator, excluding new lines
-  * parentheses for negative numbers
-  * bonus: three operands w/ operator precedence
+  * Both integers and decimals (doubles), by overloading
+  * Positive, negative, and zero values
+  * Modulo **ONLY** for integers
+  * Arbitrary white space between operands and operator, excluding new lines
+  * Parentheses for negative numbers
+  * **BONUS:** Three operands w/ operator precedence
 
 
 #### `Pluralizer` class
 
 In contrast from the prototypical version of the assignment:
-  * the input will be words each of which might or might not be in singlular or plural form
-  * there will be no integer count provided as input and the form of each input word has to be determined
-  * irregular plurals are included
-  * plural forms identical to the singular forms are included
+  * The input will be words each of which might or might not be in singlular or plural form
+  * There will be no integer count provided as input and the form of each input word has to be determined
+  * Irregular plurals are included
+  * Plural forms identical to the singular forms are included
