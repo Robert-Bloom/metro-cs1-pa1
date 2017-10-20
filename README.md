@@ -30,15 +30,37 @@ _Calculator_ asks you to develop a simple calculator class supporting the operat
 
 _Pluralizer_ asks you to develop a simple class that, given English words, returns them in their plural form.
 
+The assignment contains a test suite in the form of two classes, _CalculatorTest_ and _PluralizerTest_, containing JUnit 5 test methods. The requirement of the assignment is for all tests to pass.
+
 ### Submission
+
+Submission of this assignment is via Github. The student should follow these steps:
+
+1. Fork this repository on Github.
+2. Clone their own fork to their local development environment via _git_.
+3. Do their development locally, commiting often to keep track of their work.
+4. When all tests are passed, do a final commit and push to the remote (their own fork of the repository).
+5. Submit the URL of their own fork on Canvas.
+
+Note that you can submit right after the first step and continue developing in comfort that you are not going to miss the deadline.
 
 ### Grading
 
+Grading is based on the percentage of tests passed.
+
 ### Due date
+
+Sun, Oct 29, 2017, by 23:59 Mountain Standard Time.
 
 ### Java and library versions
 
+Java 1.8 or higher. JUnit 5 or higher.
+
 ### Honor code
+
+Free Github repositories are public so you can look at each other's code before finishing and submitting. Please, don't do that. You can discuss any programming topics and the assignments in general but sharing of solutions diminishes the individual learning experience of many people. Assignments might be randomly checked for plagiarism and a plagiarism claim may be raised against you.
+
+Note that PA1 is an _individual_ assignment.
 
 ### Detailed instructions
 
@@ -56,6 +78,7 @@ Contrary to the prototypical assignment, this version will have to support:
 #### `Pluralizer`
 
 In contrast from the prototypical version of the assignment:
-  * the input will only be a word which might or might not be in singlular or plural form
+  * the input will be words each of which might or might not be in singlular or plural form
+  * there will be no integer count provided as input and the form of each input word has to be determined
   * irregular plurals are included
-  * plurals identical with singular forms are included
+  * plural forms identical to the singular forms are included
