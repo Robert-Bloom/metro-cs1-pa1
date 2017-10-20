@@ -1,4 +1,4 @@
-## Computer Science 1: Programming Assignment 1
+## Computer Science 1: Programming Assignment 1 (IN PROGRESS)
 
 _first non-trivial programs in Java_
 
