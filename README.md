@@ -30,7 +30,7 @@ _Calculator_ asks you to develop a simple calculator class supporting the operat
 
 _Pluralizer_ asks you to develop a simple class that, given English words, returns them in their plural form.
 
-The assignment contains a test suite in the form of two classes, _CalculatorTest_ and _PluralizerTest_, containing JUnit 5 test methods. The requirement of the assignment is for all tests to pass.
+The assignment contains a test suite in the form of two classes, _CalculatorTest_ and _PluralizerTest_, containing JUnit 5 test methods. The requirement of the assignment is to pass all the tests.
 
 ### Submission
 
@@ -64,7 +64,7 @@ Note that PA1 is an _individual_ assignment.
 
 ### Detailed instructions
 
-#### `Calculator`
+#### `Calculator` class
 
 Contrary to the prototypical assignment, this version will have to support:
   * both integers and decimals (doubles), by overloading
@@ -75,7 +75,7 @@ Contrary to the prototypical assignment, this version will have to support:
   * bonus: three operands w/ operator precedence
 
 
-#### `Pluralizer`
+#### `Pluralizer` class
 
 In contrast from the prototypical version of the assignment:
   * the input will be words each of which might or might not be in singlular or plural form
