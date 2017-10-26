@@ -60,7 +60,7 @@ Sun, Nov 5, 2017, by 23:59 Mountain Standard Time.
 
 ### Java and library versions
 
-Java 1.8 or higher. JUnit 5 or higher.
+Java 1.8 (aka Java 8). JUnit 5.
 
 ### Honor code
 
