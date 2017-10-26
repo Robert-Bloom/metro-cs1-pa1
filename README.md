@@ -72,7 +72,7 @@ Note that PA1 is an _individual_ assignment.
 
 #### `Calculator` class
 
-Contrary to the prototypical assignment, this version will have to support:
+This assignment differs from the original on [Repl.it](https://repl.it/community/classrooms/20700). This version will have to support:
   * Both integers and decimals (doubles), by overloading
   * Positive, negative, and zero values
   * Modulo **ONLY** for integers
@@ -83,7 +83,7 @@ Contrary to the prototypical assignment, this version will have to support:
 
 #### `Pluralizer` class
 
-In contrast from the prototypical version of the assignment:
+This assignment differs from the original on [Repl.it](https://repl.it/community/classrooms/20700) in the following ways:
   * The input will be words each of which might or might not be in singlular or plural form
   * There will be no integer count provided as input and the form of each input word has to be determined
   * Irregular plurals are included
