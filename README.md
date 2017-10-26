@@ -56,7 +56,7 @@ Grading is based on the percentage of tests passed.
 
 ### Due date
 
-Sun, Oct 29, 2017, by 23:59 Mountain Standard Time.
+Sun, Nov 5, 2017, by 23:59 Mountain Standard Time.
 
 ### Java and library versions
 
